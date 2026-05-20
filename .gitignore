@@ -1,0 +1,10 @@
+# Datos locales y logs
+.env
+codigo_moodle/
+*.log
+
+# Carpetas de sistema
+.DS_Store
+
+.marscode/
+.marscode-logs/
